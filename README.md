@@ -13,7 +13,7 @@ This is a Node.js API project that interacts with a MySQL database. The project 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/repository-name.git
+    git clone https://github.com/anaremarkable/repository-name.git
     ```
 
 2. Navigate to the project directory:
